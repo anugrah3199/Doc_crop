@@ -77,7 +77,7 @@ As we are using yolov4 framework so need to annotate each image. To annotate, ro
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](mages/SS1.png)
 
 
 ## Extras
