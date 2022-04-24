@@ -75,7 +75,7 @@ As we are using yolov4 framework so need to annotate each image. To annotate, ro
 
 - Other necessary steps are provided in ipynb file.
 
-## Screenshots
+## Screenshots of the Application
 
 ![App Screenshot](Images/SS11.png)
 
