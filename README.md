@@ -77,7 +77,9 @@ As we are using yolov4 framework so need to annotate each image. To annotate, ro
 
 ## Screenshots
 
-![App Screenshot](Images/SS1.png)
+![App Screenshot](Images/SS11.png)
+
+![App Screenshot](Images/ss2.png)
 
 
 ## Extras
