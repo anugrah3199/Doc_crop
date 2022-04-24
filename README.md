@@ -1,8 +1,7 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<img src="Images/Doc-crop.png" align="center">
 
-
-# Doc crop – paddy disease detection system
+# Doc crop – Paddy Disease Detection System
 
 A paddy disease detection model project which works on the principle of CNN (Convolution Neural Network). 
 Model can identify different types of disease such as Brown spot, leaf blast and hispa from images and can also identify different insects found in paddy crops such as stem bor, stem bore larvae, hispa, and gundi
